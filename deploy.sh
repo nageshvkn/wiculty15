@@ -1,5 +1,3 @@
-lsjflsjf
-s
-fs
-f
-sf
+#!/bin/sh
+#
+for i in `cat ips.txt`
